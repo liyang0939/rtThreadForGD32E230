@@ -1,0 +1,2 @@
+# rtThreadForGD32E230
+基于兆易创新的官方固件库GD32E23x_Firmware_Library_V2.3.0，为GD32E230移植rt-thread实时操作系统rtThread nano，包括finsh交互界面
