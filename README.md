@@ -15,3 +15,5 @@
 
 7、移植结束后，其占用的内存ram空间约为3.7kB，flash大小约为12kB：
 Program Size: Code=11000 RO-data=996 RW-data=68 ZI-data=3644
+
+8、如有问题请联系liyang0939@sina.com
